@@ -1,0 +1,4 @@
+## const gridElem = 40; *
+cecis est un peu comme notre echelle , on voudrait que chaque carreau de notre canvas ( sil est considerer comme une grid)
+fasse 40px , ducoup sur l'horizontale  on peut avoir 800px/40=20 carreau au trop et sur la vertical
+on peut avoir 620px/40= 15,5 carreau
